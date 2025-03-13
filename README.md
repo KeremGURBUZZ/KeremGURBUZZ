@@ -1,16 +1,15 @@
-## Hi there 👋
+# Merhaba, ben Kerem Gürbüz! 👋  
 
-<!--
-**KeremGURBUZZ/KeremGURBUZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Gelişmekte olan bir Backend Developer**  
 
-Here are some ideas to get you started:
+💻 Java, Spring Boot, HTML, CSS ve PHP ile projeler geliştiriyorum.  
+📚 Kendimi sürekli geliştirmek ve yeni teknolojiler öğrenmek istiyorum.  
+🌍 Açık kaynak projelere katkı sağlamayı hedefliyorum.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Bildiğim Teknolojiler  
+- **Programlama Dilleri:** Java, PHP  
+- **Backend:** Spring Boot (temel düzey)  
+- **Frontend:** HTML, CSS  
+- **Veritabanı:** MySQL  
+
+✉️ Bana ulaşmak için: [keremgurbuz5@gmail.com](mailto:keremgurbuz5@gmail.com)  
