@@ -1,6 +1,6 @@
 # Merhaba, ben Kerem Gürbüz! 👋  
 
-🚀 **Gelişmekte olan bir Backend&frontend Developer**  
+🚀 **Gelişmekte olan bir Backend Developer**  
 
 💻 Java, Spring Boot, HTML, CSS ve PHP ile projeler geliştiriyorum.  
 📚 Kendimi sürekli geliştirmek ve yeni teknolojiler öğrenmek istiyorum.  
@@ -12,4 +12,7 @@
 - **Frontend:** HTML, CSS  
 - **Veritabanı:** MySQL  
 
-✉️ Bana ulaşmak için: [keremgurbuz5@gmail.com](mailto:keremgurbuz5@gmail.com)  
+## 📌 Bağlantılarım  
+🔗 **GitHub:** [KeremGURBUZZ](https://github.com/KeremGURBUZZ)  
+🔗 **LinkedIn:** [Kerem Gürbüz](https://www.linkedin.com/in/kerem-g%C3%BCrb%C3%BCz-a233382b9)  
+✉️ **Mail:** [keremgurbuz5@gmail.com](mailto:keremgurbuz5@gmail.com)  
