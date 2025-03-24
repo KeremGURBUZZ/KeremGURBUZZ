@@ -15,4 +15,4 @@
 ## 📌 Bağlantılarım  
 🔗 **GitHub:** [KeremGURBUZZ](https://github.com/KeremGURBUZZ)  
 🔗 **LinkedIn:** [Kerem Gürbüz](https://www.linkedin.com/in/kerem-g%C3%BCrb%C3%BCz-a233382b9)  
-✉️ **Mail:** [keremgurbuz5@gmail.com](mailto:keremgurbuz5@gmail.com)  
+✉️ **Mail:** [keremgurbuz5@gmail.com](mailto:keremgurbuz5@gmail.com)
