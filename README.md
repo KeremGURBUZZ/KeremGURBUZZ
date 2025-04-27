@@ -1,6 +1,6 @@
 # Merhaba, ben Kerem Gürbüz! 👋  
 
-🚀 **Gelişmekte olan bir Backend Developer**  
+🚀 **Gelişmekte olan bir Software Developer**  
 
 💻 Java, Spring Boot, HTML, CSS ve PHP ile projeler geliştiriyorum.  
 📚 Kendimi sürekli geliştirmek ve yeni teknolojiler öğrenmek istiyorum.  
